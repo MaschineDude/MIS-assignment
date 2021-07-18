@@ -1,0 +1,32 @@
+.header {
+    font-size: 250%;
+    text-align: center;
+}
+.full {
+    background-color: rgba(0, 0, 0, 0.863);
+    color: rgb(204, 158, 58);
+}
+.guts1 {
+    width: 200px;
+    height: 200px;
+    margin-left: 70px;
+}
+section {
+    display: flex;
+}
+.guts2 {
+    width: 200px;
+    height: 200px;
+    margin-left: 300px;
+    margin-right: 150px;
+    display: flex;
+}
+.para {
+    margin-left: 450px;
+}
+.album1 {
+    margin-left: 650px;
+}
+.para2 {
+    text-align: center;
+}
